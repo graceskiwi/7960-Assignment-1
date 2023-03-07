@@ -1,0 +1,19 @@
+body {
+    background-image: url("Night\ Market-1.png");
+    background:fixed
+}
+
+table {
+    color:white
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black
+}
+
+nav {
+    display: inline;
+    text-align: center;
+}

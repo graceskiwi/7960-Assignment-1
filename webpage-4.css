@@ -1,0 +1,42 @@
+.subhead {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    font-weight: bold;
+    color:yellowgreen;
+    text-indent: 10%;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: yellowgreen;
+    text-indent: 10%;
+ }
+
+ header {
+    background-color:black
+ }
+
+form {
+    background-color:yellowgreen
+}
+
+ footer {
+    background-color:black;
+    color:white;
+    font-size:small;
+    text-align:center;
+ }
+
+ label {
+    font-size:large;
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+ h3 {
+    font-size:medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+
+

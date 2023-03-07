@@ -1,0 +1,27 @@
+body {
+   background-image: url("Thailand.jpeg");
+   background:fixed
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight:bolder;
+    text-align: right;
+    color:deeppink
+ }
+
+ h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align:right;
+    font-size:x-large;
+    color:deeppink
+ }
+
+ ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:large;
+    text-align:right;
+    display:inline
+ }
