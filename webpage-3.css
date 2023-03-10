@@ -1,25 +1,25 @@
 .image1:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 .image2:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 .image3:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 .image4:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 .image5:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 .image6:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 
@@ -42,24 +42,26 @@ h1 {
  }
 
  .text1{
-
     display: grid;
-    
     grid-template-columns: 1fr 1fr 1fr;
-    
     column-gap: 30px;
-    
     text-indent: 10%;
 }
 
 .text2{
-
     display: grid;
-        
     grid-template-columns: 1fr 1fr 1fr;
-        
     column-gap: 30px;
-
     text-indent: 10%;
-        
+}
+
+.image_div{
+    display: grid;
+    grid-template-columns: 3.33fr 3.33fr 3.33fr;
+    column-gap: 10px;
+}
+
+img{
+    display: block;
+    margin:auto;
 }
